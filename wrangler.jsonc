@@ -26,13 +26,13 @@
       "binding": "DB",
       "database_name": "unimailbox",
       "migrations_dir": "migrations",
-      "database_id": "7873409d-9010-41a9-8f40-7f03b82356f8",
+      "database_id": "d3ff35fd-20fc-4ebc-b404-507c6bd2fcab",
     },
   ],
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "0ab92b59069443a490ec73d9271b96cd",
+      "id": "140d475484044285be9aec3fb14f38ca",
     },
   ],
   "queues": {
